@@ -1,4 +1,4 @@
-# atividades informtica para logística
+# atividades informática para logística
 lista de atividades realizadas, na disciplina informática para logística.
 
 
@@ -10,6 +10,7 @@ lista de atividades realizadas, na disciplina informática para logística.
 Arquivo da apresentação:
 [LOGÍSTICA.pptx](https://github.com/user-attachments/files/23141569/LOGISTICA.pptx)
 
+------
 
  ## atividade 2: analise exploratoria de dados abertos via Microsoft Excel 
 foi utilizado Execel e dados abertos do ministerio do turismo. para gerar tabelas e graficos dinamicos, e analise exploratoria utilizando os critérios pedidos em sala de aula.
