@@ -13,7 +13,7 @@ Arquivo da apresentação:
 ------
 
  ## atividade 2: analise exploratoria de dados abertos via Microsoft Excel 
-foi utilizado Execel e dados abertos do ministerio do turismo. para gerar tabelas e graficos dinamicos, e analise exploratoria utilizando os critérios pedidos em sala de aula.
+Foi utilizado Execel e dados abertos do ministerio do turismo. para gerar tabelas e graficos dinamicos, e analise exploratoria utilizando os critérios pedidos em sala de aula.
  
 <img width="1683" height="805" alt="Captura de tela 2025-10-25 085941" src="https://github.com/user-attachments/assets/89bb9842-dd16-45e5-b08a-bade971b456e" />
 
@@ -23,7 +23,14 @@ Arquivo da planilha: [atividade informatica 2.zip](https://github.com/user-attac
 ---
 
 # Atividade 4 
+Aplicação de filtros dentro do power BI, possibilitando a vizualiação de dados de exportação por países por valor FOB.
 
-Aplicação de filtros dentro do power BI, possibilitando a vizualiação de dados de exportação por países.
+<img width="1324" height="727" alt="Captura de tela 2025-11-06 091256" src="https://github.com/user-attachments/assets/4a926fa8-dde6-4091-b096-619cab48feda" />
 
+
+Arquivo :[4 atividade informatica Power BI.zip](https://github.com/user-attachments/files/23392368/4.atividade.informatica.Power.BI.zip) 
+
+---- 
+
+# Atividade 5
 
