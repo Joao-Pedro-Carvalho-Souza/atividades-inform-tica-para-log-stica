@@ -34,3 +34,8 @@ Arquivo :[4 atividade informatica Power BI.zip](https://github.com/user-attachme
 
 # Atividade 5
 
+Atividade em power BI, com aplicação de filtros na base de dados de exportação, e criação de mapa apartir da UF dos municipios.
+
+<img width="1456" height="799" alt="Captura de tela 2025-11-06 223432" src="https://github.com/user-attachments/assets/ac18166f-8fe5-4425-a2e8-e85500291faf" />
+
+Link do arquivo:  [5 atividade informatica.zip](https://github.com/user-attachments/files/23406956/5.atividade.informatica.zip)
