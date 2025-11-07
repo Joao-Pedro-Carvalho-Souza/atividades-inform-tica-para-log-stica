@@ -21,6 +21,16 @@ Foi utilizado Execel e dados abertos do ministerio do turismo. para gerar tabela
 Arquivo da planilha: [atividade informatica 2.zip](https://github.com/user-attachments/files/23142739/atividade.informatica.2.zip)
 
 ---
+# Atividade 3
+
+
+
+
+
+
+
+
+------
 
 # Atividade 4 
 Aplicação de filtros dentro do power BI, possibilitando a vizualiação de dados de exportação por países por valor FOB.
@@ -39,3 +49,8 @@ Atividade em power BI, com aplicação de filtros na base de dados de exportaç�
 <img width="1456" height="799" alt="Captura de tela 2025-11-06 223432" src="https://github.com/user-attachments/assets/ac18166f-8fe5-4425-a2e8-e85500291faf" />
 
 Link do arquivo:  [5 atividade informatica.zip](https://github.com/user-attachments/files/23406956/5.atividade.informatica.zip)
+
+
+------
+
+# Atividade 6
