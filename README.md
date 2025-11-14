@@ -55,3 +55,8 @@ Link do arquivo:  [5 atividade informatica.zip](https://github.com/user-attachme
 ------
 
 # Atividade 6
+
+
+-----
+
+#ATIVIDADE 7
