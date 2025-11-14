@@ -68,4 +68,6 @@ Python:
 
 Arquivo:[Python salario anos de experiencia.ipynb](https://github.com/user-attachments/files/23551062/Python.salario.anos.de.experiencia.ipynb)
 
+Execel: [SALARIO ANOS.csv](https://github.com/user-attachments/files/23551114/SALARIO.ANOS.csv)
+
 
