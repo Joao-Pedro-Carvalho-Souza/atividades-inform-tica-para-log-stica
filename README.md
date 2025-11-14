@@ -59,4 +59,13 @@ Link do arquivo:  [5 atividade informatica.zip](https://github.com/user-attachme
 
 -----
 
-#ATIVIDADE 7
+# Atividade 7
+
+Criar uma regressão linear por meio do Excel e de Machine Learning (Python, colab e Gemini), usando dos dados fornecidos por professor.
+
+Python:
+<img width="1277" height="701" alt="image" src="https://github.com/user-attachments/assets/67dd545b-c14e-4d6a-8f09-23af3d557839" />
+
+Arquivo:[Python salario anos de experiencia.ipynb](https://github.com/user-attachments/files/23551062/Python.salario.anos.de.experiencia.ipynb)
+
+
