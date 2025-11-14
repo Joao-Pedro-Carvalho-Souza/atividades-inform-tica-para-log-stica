@@ -1,4 +1,4 @@
-# Atividades informática para logística
+[Sorvete regressão linear.ipynb](https://github.com/user-attachments/files/23551884/Sorvete.regressao.linear.ipynb)# Atividades informática para logística
 lista de atividades realizadas, na disciplina informática para logística.
 
 
@@ -55,7 +55,16 @@ Link do arquivo:  [5 atividade informatica.zip](https://github.com/user-attachme
 ------
 
 # Atividade 6
+Atividade de regressão linear simples com Python no google colab, usando uma base de dados de temperatura e venda de sorvetes.
 
+Base de dados:(https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset) 
+
+<img width="1001" height="556" alt="image" src="https://github.com/user-attachments/assets/e96c1532-79aa-490c-b5f9-1a378ee21369" />
+
+
+Python:[Sorvete regressão linear.ipynb](https://github.com/user-attachments/files/23551895/Sorvete.regressao.linear.ipynb)
+
+Execel: [Sorvete e temperatura (1).xlsx](https://github.com/user-attachments/files/23551933/Sorvete.e.temperatura.1.xlsx)
 
 -----
 
