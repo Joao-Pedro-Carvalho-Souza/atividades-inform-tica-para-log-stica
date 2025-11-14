@@ -1,4 +1,5 @@
-[Sorvete regressão linear.ipynb](https://github.com/user-attachments/files/23551884/Sorvete.regressao.linear.ipynb)# Atividades informática para logística
+## Atividades informática para logística
+
 lista de atividades realizadas, na disciplina informática para logística.
 
 
