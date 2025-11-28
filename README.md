@@ -80,4 +80,20 @@ Arquivo:[Python salario anos de experiencia.ipynb](https://github.com/user-attac
 
 Execel: [SALARIO ANOS.csv](https://github.com/user-attachments/files/23551114/SALARIO.ANOS.csv)
 
+--------
+
+# Atividade 8 / Prova
+
+ Questão 5 da Prova realizada, com base de dados de pesquisa mensal do comercio, criação de dashboard simples, com:
+
+  - gráfico mostrando a mediana de Índice de base fixa das atividades de comércio pesquisadas pela PMC (sem ajuste sazonal) por ano
+
+- gráfico mostrando a mediana de Índice de base fixa das atividades de comércio pesquisadas pela PMC (sem ajuste sazonal) por Mês
+
+- gráfico mostrando a mediana de Índice de base fixa das atividades de comércio pesquisadas pela PMC (com ajuste sazonal) por Mês
+
+<img width="1304" height="742" alt="image" src="https://github.com/user-attachments/assets/2abf6304-ee48-47ba-abcc-10a0df14b46c" />
+
+Power BI: [ProvaInformatica.zip](https://github.com/user-attachments/files/23812266/ProvaInformatica.zip)
+
 
